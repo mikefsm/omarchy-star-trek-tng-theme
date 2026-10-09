@@ -1,0 +1,32 @@
+# Star Trek: The Next Generation — LCARS panels on black
+mode = "dark"
+
+accent = "#ff9966"
+selection = "#3a2a4a"
+muted = "#5a5a7a"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#14141f"
+
+foreground = "#ffcc99"
+dark_foreground = "#9999cc"
+light_foreground = "#ffe0bf"
+bright_foreground = "#fff2e0"
+
+red = "#cc6666"
+yellow = "#ffcc66"
+orange = "#ff9900"
+green = "#99cc99"
+cyan = "#99ccff"
+blue = "#9999ff"
+magenta = "#cc99cc"
+brown = "#996644"
+
+bright_red = "#ff7777"
+bright_yellow = "#ffdd88"
+bright_green = "#bbeebb"
+bright_cyan = "#bbddff"
+bright_blue = "#bbbbff"
+bright_magenta = "#ddaadd"
